@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de configuración privada
+.env
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
